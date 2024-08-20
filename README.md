@@ -1,6 +1,6 @@
 # Trabalho-de-Programa-o-II
 
-  Este é um projeto simples de desenvolvido em Python. A calculadora possui funcionalidades básicas para operações matemáticas e um cálculo de raiz quadrada.O código cria uma calculadora simples.  Ele permite que você digite números e operadores (+, -, *, /) em um campo  e clique em igual para ver o resultado. Possui também um botão para limpar tudo.
+  Este é um projeto simples de desenvolvido em Python. A calculadora possui funcionalidades básicas para operações matemáticas e um cálculo de raiz quadrada. O código cria uma calculadora simples.  Ele permite que você digite números e operadores (+, -, *, /) em um campo  e clique em igual para ver o resultado. Possui também um botão para limpar tudo.
   
   -Funcionalidades
 A calculadora oferece as seguintes operações:
